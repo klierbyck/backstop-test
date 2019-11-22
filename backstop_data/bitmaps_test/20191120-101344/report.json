@@ -1,0 +1,24 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\..\\..\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0__0_pc.png",
+        "test": "..\\..\\..\\backstop_data\\bitmaps_test\\20191120-101344\\backstop_default_BackstopJS_Homepage_0__0_pc.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__0_pc.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://10.0.197.162:9000/home",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "pc",
+        "engineErrorMsg": "localStorage.setItem is not a function",
+        "error": "Reference file not found C:\\Users\\xuw-i\\Desktop\\backstop\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0__0_pc.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

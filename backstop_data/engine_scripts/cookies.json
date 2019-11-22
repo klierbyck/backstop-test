@@ -1,0 +1,29 @@
+[
+  {
+    "domain": "localhost",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "E233FFCEAA2AB7322334E8B2D6F7F467",
+    "id": 1
+  },
+  {
+    "domain": "localhost",
+    "expirationDate": 1574378253.79863,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "855dce8aa28eba069d65e45d0cca2064",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "online:24:5adfd8e1f16b48b5b5b03798da68da23",
+    "id": 2
+  }
+]

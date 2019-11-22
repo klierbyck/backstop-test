@@ -1,0 +1,17 @@
+[
+  {
+    "name": "session",
+    "value": "online:24:5adfd8e1f16b48b5b5b03798da68da23"
+  },
+  {
+    "name": "userinfo",
+    "value": {
+      "loginTime": "1574219225915",
+      "loginName": "test10",
+      "sessionId": "online:24:5adfd8e1f16b48b5b5b03798da68da23",
+      "userType": "5",
+      "userName": "test10",
+      "userId": "f5e43242d48644e9b40b3ee95bb056a6"
+    }
+  }
+]

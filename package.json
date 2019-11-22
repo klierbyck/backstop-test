@@ -1,0 +1,17 @@
+{
+  "name": "backstop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ui": "backstop test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^4.3.2",
+    "localstorage-memory": "^1.0.3",
+    "localstorage-ponyfill": "^1.0.2"
+  }
+}
